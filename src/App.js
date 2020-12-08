@@ -1,6 +1,5 @@
 import React,{useState} from "react";
 import './App.css';
-import image from './images.png' ;
 
 const emojidirectory={
   "😄":"happy",
