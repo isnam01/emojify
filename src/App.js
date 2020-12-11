@@ -17,7 +17,15 @@ const emojidirectory={
   "😑":"expressionless face",
   "😶":"face without mouth",
   "🤒":"face with thermometer",
-  
+  "😝":"squinting face",
+  "🤗":"hug",
+  "🤫":"shush",
+  "🤔":"thinking",
+  "😏":"smirking",
+  "😒":"unamused",
+  "😪":"sleepy",
+  "🤥":"lying",
+  "😐":"neutral"
 }
 
 var emoji=Object.keys(emojidirectory);
